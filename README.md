@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Gavish, and I'm studing AI Robotics!
+
 <!--
 **FIRE0BALL/FIRE0BALL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
