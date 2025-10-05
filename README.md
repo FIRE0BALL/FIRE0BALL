@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 My name is Gavish, and I'm studing AI Robotics!
+
+
 I’m currently working on MicroMouse and 3-D printing
 <!--
 **FIRE0BALL/FIRE0BALL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
