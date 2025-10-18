@@ -4,7 +4,7 @@
 
  🌱 I’m currently learning ROS and Python.
 
- 🔭 I’m currently working on MicroMouse and 3-D printing.
+ 🔭 I’m currently working on 3D-Printer and MicroMouse.
 <!--
 **FIRE0BALL/FIRE0BALL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
