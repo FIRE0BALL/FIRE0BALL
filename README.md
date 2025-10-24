@@ -1,6 +1,6 @@
 ##  👋 Hi there
 
-💬 My name is Gavish, and I'm studing AI Robotics!
+💬 My name is Gavish, and I'm studying AI Robotics!
 
  🌱 I’m currently learning ROS and Python.
 
